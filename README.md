@@ -25,5 +25,14 @@ La motivación es predecir el comportamiento para retener clientes. Poder analiz
 
 * Hay datos Sensibles los cuales se pueden o no tener en cuenta. Edad / Sexo en ocasiones no esta bien visto hacer recomendaciones utilizando esta informacion ya que puede ser visto como discriminación.
 
+* Variables más significativas según modelo Random Forest:
+
+1. Total Charges: El monto total cobrado al cliente
+2. Tenure: Número de meses que el cliente ha
+permanecido en la empresa.
+3. Monthly change: El monto cobrado al cliente
+
+mensualmente
+
 
 
