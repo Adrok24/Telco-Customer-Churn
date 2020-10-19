@@ -45,5 +45,10 @@ permanecido en la empresa.
   <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_3.png?raw=true" alt="grafico"/>
 </p>
 
+* Probando con ensambles de árboles, el modelo que mejor resultados obtuvo fue el clasificador AdaBoost:
+
+<p align="center">
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_4.png?raw=true" alt="grafico"/>
+</p>
 
 
