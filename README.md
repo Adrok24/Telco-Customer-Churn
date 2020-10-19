@@ -41,7 +41,9 @@ permanecido en la empresa.
 1. Total Charges: El monto total cobrado al cliente
 2. Tenure: Número de meses que el cliente ha permanecido en la empresa.
 
-
+<p align="center">
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_3.png?raw=true" alt="grafico"/>
+</p>
 
 
 
