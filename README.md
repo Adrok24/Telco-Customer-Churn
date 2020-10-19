@@ -53,5 +53,8 @@ permanecido en la empresa.
 
 * Comparación de resultados de una regresión logistica con una red neuronal simple de una sola neurona, con activación sigmoidea:
 
+<p align="center">
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_6.png?raw=true" alt="grafico"/>
+</p>
 
 
