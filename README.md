@@ -1,4 +1,4 @@
-# Análisis de un data set de Telco Customer Churn y entrenamiento de un modelo predictivo por diferentes métodos.
+# Análisis de un data set de Telco Customer Churn y entrenamiento de un modelo predictivo por diferentes métodos
 
 https://www.kaggle.com/blastchar/telco-customer-churn
 
@@ -15,9 +15,15 @@ La motivación es predecir el comportamiento para retener clientes. Poder analiz
 
 # Análisis exploratorio
 
-* El dataset presenta como variable target el Churn Status cuya distribución se ve en el Gráfico 1.
+* El dataset presenta como variable target el Churn Status cuya distribución se ve en el siguiente gráfico.
+
+
+![Image](https://github.com/Adrok24/tp_digital_house/blob/version_1/image_1.png?raw=true)
+
 
 * El dataset tiene una forma de (7043, 21), no presenta outliers en sus valores y presenta blancos solo en 11 identificados como missing values de los 7043.
 
 * Hay datos Sensibles los cuales se pueden o no tener en cuenta. Edad / Sexo en ocasiones no esta bien visto hacer recomendaciones utilizando esta informacion ya que puede ser visto como discriminación.
+
+
 
