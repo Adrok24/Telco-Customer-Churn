@@ -30,9 +30,12 @@ La motivación es predecir el comportamiento para retener clientes. Poder analiz
 1. Total Charges: El monto total cobrado al cliente
 2. Tenure: Número de meses que el cliente ha
 permanecido en la empresa.
-3. Monthly change: El monto cobrado al cliente
+3. Monthly change: El monto cobrado al cliente mensualmente
 
-mensualmente
+<p align="center">
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_2.png?raw=true" alt="grafico"/>
+</p>
+
 
 
 
