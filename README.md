@@ -17,9 +17,9 @@ La motivación es predecir el comportamiento para retener clientes. Poder analiz
 
 * El dataset presenta como variable target el Churn Status cuya distribución se ve en el siguiente gráfico.
 
-
-![Image](https://github.com/Adrok24/tp_digital_house/blob/version_1/image_1.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_1.png?raw=true" alt="grafico"/>
+</p>
 
 * El dataset tiene una forma de (7043, 21), no presenta outliers en sus valores y presenta blancos solo en 11 identificados como missing values de los 7043.
 
