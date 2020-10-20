@@ -60,6 +60,6 @@ permanecido en la empresa.
 
 # Deep Learing (NN)
 
-<p align="center">
-  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_7.png?raw=true" alt="grafico style="width:200px;height:400px;""/>
+<p  align="center">
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_7.png?raw=true" width="300" height="400" alt="neural networks"/>
 </p>
