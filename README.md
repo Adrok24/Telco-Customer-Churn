@@ -1,6 +1,6 @@
 # Análisis de un data set de Telco Customer Churn y entrenamiento de un modelo predictivo por diferentes métodos
 
-https://www.kaggle.com/blastchar/telco-customer-churn
+El dataset puede ser encontrado en el siguiente desafo de Kaggle: [Telco-customer-churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 
 
 # Motivación y dataset
@@ -14,6 +14,8 @@ La motivación es predecir el comportamiento para retener clientes. Poder analiz
 * Información demográfica sobre los clientes: sexo, rango de edad y si tienen socios y dependientes
 
 # Análisis exploratorio y prueba con ML tradicional
+
+Las notebooks que contienen toda la información del análisis exploratorio y entrenamiento de los modelos de machine learning se pueden encontrar en la siguiente [carpeta](https://github.com/Adrok24/tp_digital_house/blob/version_1/ML/)
 
 * El dataset presenta como variable target el Churn Status cuya distribución se ve en el siguiente gráfico.
 
