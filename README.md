@@ -65,7 +65,7 @@ permanecido en la empresa.
 Los resultados obtenidos para redes neuronales se pueden hallar en la siguiente [notebook](https://github.com/Adrok24/tp_digital_house/blob/version_1/neural_networks/NN_final.ipynb), aunque también se realizaron diversas pruebas que se pueden encontrar en la siguiente [carpeta](https://github.com/Adrok24/tp_digital_house/blob/version_1/neural_networks/).
 
 <p  align="center">
-  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_7.png?raw=true" width="300" height="400" alt="neural networks"/>
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_7.png?raw=true" width="400" height="500" alt="neural networks"/>
 </p>
 
 * Matriz de confusión y métricas obtenida para los datos de test.
