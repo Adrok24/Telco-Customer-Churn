@@ -13,7 +13,7 @@ La motivación es predecir el comportamiento para retener clientes. Poder analiz
 * Información de la cuenta del cliente: cuánto tiempo ha sido cliente, contrato, método de pago, facturación electrónica, cargos mensuales y cargos totales.
 * Información demográfica sobre los clientes: sexo, rango de edad y si tienen socios y dependientes
 
-# Análisis exploratorio
+# Análisis exploratorio y prueba con ML tradicional
 
 * El dataset presenta como variable target el Churn Status cuya distribución se ve en el siguiente gráfico.
 
@@ -58,3 +58,8 @@ permanecido en la empresa.
 </p>
 
 
+# Deep Learing (NN)
+
+<p align="center">
+  <img src="https://github.com/Adrok24/tp_digital_house/blob/version_1/imagenes/image_7.png?raw=true" alt="grafico style="width:200px;height:400px;""/>
+</p>
